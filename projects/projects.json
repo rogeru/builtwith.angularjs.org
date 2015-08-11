@@ -3688,6 +3688,28 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Circuit",
+      "thumb": "circuit/thumb.png",
+      "desc": "Circuit is voice, video, screen sharing, messaging, and file sharing in a single view. Note: Portal is not Angular, the actual application is.",
+      "url": "http://www.circuit.com/",
+      "info": "https://www.circuit.com/learn",
+      "submitter": "rogeru",
+      "submissionDate": "2015-08-10",
+      "tags": [
+        "Production",
+        "Productivity",
+        "WebRTC",
+        "Local Storage",
+        "IndexedDB",
+        "AppCache",
+        "WebRTC",
+        "Collaboration",
+        "Video",
+        "Screenshare",
+        "Cloud"
+      ]
     }
 
   ]
